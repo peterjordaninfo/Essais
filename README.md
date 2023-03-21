@@ -9,6 +9,6 @@ Experimenting with SNCF's [Open Data](https://ressources.data.sncf.com/explore/?
 ## Twitter followers
 Exploring the network of my Twitter followers
 
-### Do my daily walk lengths follow a normal distribution?
+## Do my daily walk lengths follow a normal distribution?
 For the last few years I've recorded how far I walk each day. A look at some tested for normal distribution and KDE.
 
